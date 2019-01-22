@@ -1,2 +1,6 @@
-# port_scanner
-Simple python port scanner.
+# Python Port-Scanner
+#
+# Simple python port scanner.
+# Scans internal address space.
+# Port 1 to 65535
+#
